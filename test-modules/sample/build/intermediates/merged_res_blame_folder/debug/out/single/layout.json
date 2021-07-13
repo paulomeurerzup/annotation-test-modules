@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_server_driven.xml",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_server_driven.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_deep_link.xml",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_deep_link.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_list_view.xml",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/fragment_list_view.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_page_indicator.xml",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/custom_page_indicator.xml"
+    }
+]

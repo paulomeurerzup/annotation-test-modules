@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/layout_activity_deep_link.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_deep_link.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_beagle_image.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/beagle_image.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/color_selector_icon_color.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/color/selector_icon_color.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_bg_white_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/bg_white_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-v21_bg_white_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable-v21/bg_white_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_bg_form_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/bg_form_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_selector_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/selector_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/layout_activity_server_driven.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/activity_server_driven.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_text_input_background.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/text_input_background.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_bg_gradient_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/bg_gradient_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_beagle.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/beagle.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/layout_custom_page_indicator.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/custom_page_indicator.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/menu_menu_navigation_drawer.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/menu/menu_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-v21_bg_gradient_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable-v21/bg_gradient_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/layout_fragment_list_view.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/layout/fragment_list_view.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-v21_doubt.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable-v21/doubt.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_indicator_default.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/indicator_default.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable_bg_disabled_button.xml.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/src/main/res/drawable/bg_disabled_button.xml"
+    },
+    {
+        "merged": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/paulo.meurer/Development/annotation-test-modules/test-modules/sample/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    }
+]

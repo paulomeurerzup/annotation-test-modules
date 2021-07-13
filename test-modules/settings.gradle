@@ -1,0 +1,5 @@
+rootProject.name = "test-modules"
+include ':moduleA'
+include ':moduleB'
+include ':moduleC'
+include ':sample'
